@@ -1,18 +1,18 @@
 # Official Documents (Original English Ver.) 原始版本
 
 [Regulations](https://www.worldcubeassociation.org/regulations/)
-Ver. 2019-05-01 [[GitHub Code]](https://github.com/thewca/wca-regulations/blob/draft/wca-regulations.md)
+Ver. 2020-01-01 [[GitHub Code]](https://github.com/thewca/wca-regulations/blob/draft/wca-regulations.md)
 
 [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html)
-Ver. 2019-05-01 [[GitHub Code]](https://github.com/thewca/wca-regulations/blob/draft/wca-guidelines.md)
+Ver. 2020-01-01 [[GitHub Code]](https://github.com/thewca/wca-regulations/blob/draft/wca-guidelines.md)
 
 # Traditional Chinese 繁體中文版本
 
 [Regulations競賽規則](https://www.worldcubeassociation.org/regulations/translations/chinese-traditional/)
-Ver. 2019-05-01 [[GitHub Code]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-regulations.md)
+Ver. 2020-01-01 [[GitHub Code]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-regulations.md)
 
 [Guidelines指導方針](https://www.worldcubeassociation.org/regulations/translations/chinese-traditional/guidelines.html)
-Ver. 2019-05-01 [[GitHub Code]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-guidelines.md)
+Ver. 2020-01-01 [[GitHub Code]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-guidelines.md)
 
 # Terminologies字彙:
 
