@@ -1,10 +1,10 @@
 # Official Documents (Original English Ver.) 原始版本
 
 [Regulations](https://www.worldcubeassociation.org/regulations/)
-Ver. 2020-01-01 [[GitHub Code]](https://github.com/thewca/wca-regulations/blob/draft/wca-regulations.md)
+Ver. 2020-01-01 [[GitHub Code]](https://github.com/thewca/wca-regulations/blob/official/wca-regulations.md)
 
 [Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html)
-Ver. 2020-01-01 [[GitHub Code]](https://github.com/thewca/wca-regulations/blob/draft/wca-guidelines.md)
+Ver. 2020-01-01 [[GitHub Code]](https://github.com/thewca/wca-regulations/blob/official/wca-guidelines.md)
 
 # Traditional Chinese 繁體中文版本
 
