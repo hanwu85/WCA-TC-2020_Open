@@ -465,18 +465,6 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-do
     - C1c) 在解方塊當中，一旦參賽者以其中一隻手操作方塊，他就不能用另一隻手操作方塊。處罰：判定該次還原未完成（DNF）。
 
 
-## <article-D><feet><solvingwithfeet> 附則 D：腳解
-
-- D1) 標準速解流程如同[附則 A](regulations:article:A)（速解）。相異且優先於[附則 A](regulations:article:A)的流程如下：
-    - D1a) 參賽者還原方塊時必須坐在椅子上、坐在地面上或是站立。
-    - D1b) 在解方塊時，參賽者只能使用雙腳和地面來操作方塊。處罰：判定該次還原未完成（DNF）。
-- D3) 開始：
-    - D3a) 參賽者把雙腳放置在計時器感應區上。
-    - D3b) 參賽者從感應區移開雙腳來開始解方塊。
-- D4) 結束：
-    - D4a) 參賽者把雙腳放置到計時器感應區上來停止計時。
-
-
 ## <article-E><fewest-moves><fewestmovessolving> 附則 E：最少步數解
 
 - E2) 最少步數解的流程如下：
