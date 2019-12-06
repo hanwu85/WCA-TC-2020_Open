@@ -498,7 +498,9 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-do
     - E3a) 紙（由裁判提供）和筆或類似書寫用文具（由裁判提供，或自行準備）。
     - E3b) 3x3x3方塊（最多三顆，自行準備），如[第3章](regulations:article:3)所描述。
     - E3c) 貼紙（自行準備）。
-	- E3d) 用於確認比賽剩餘時間的碼錶或手錶（自行準備），需要由WCA代表認可。
+    - E3d) 用於確認比賽剩餘時間的碼錶或手錶（自行準備），需要由WCA代表認可。
+    - E3e) 其他沒有電子輔助品且沒有提供不公平優勢的物品，由WCA代表決定。(參見[規則 2i1](regulations:regulation:2i1))
+- E4) WCA代表可以選擇公開參賽者的解法（例如：成績單的照片，或是抄錄下的解法）。
 
 
 ## <article-F><clock><clocksolving> 附則 F：Clock魔錶
