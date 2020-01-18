@@ -313,9 +313,9 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-do
         - 12a2b) 逆時鐘90度：nFw'、nBw'、nRw'、nLw'、nUw'、nDw'。
         - 12a2c) 180度：nFw2、nBw2、nRw2、nLw2、nUw2、nDw2。
     - 12a4) 整顆方塊轉動(Rotations)：
-        - 12a4a) 順時鐘90度：[f]或z、[b]或z'、[r]或x、[l]或x'、[u]或y、[d]或y'。
-        - 12a4b) 逆時鐘90度：[f']或z'、[b']或z、[r']或x'、[l']或x、[u']或y'、[d']或y。
-        - 12a4c) 180度：[f2]或z2、[b2]或z2，[r2]或x2、[l2]或x2，[u2]或y2，[d2]或y2。
+        - 12a4a) 順時鐘90度：x（和R或L'同方向），y（和U或D'同方向），z（和F或B'同方向）。
+        - 12a4b) 逆時鐘90度：x'（和R'或L同方向），y'（和U'或D同方向），z'（和F'或B同方向）。
+        - 12a4c) 180度：x2、y2、z2。
     - 12a5) 外層轉動計數(Outer Block Turn Metric/OBTM) 的定義是：
         - 12a5a) 每一個「最外層轉動」和「多層轉動」都算成一步。
         - 12a5b) 每一個「整顆方塊轉動」都算零步。
