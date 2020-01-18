@@ -212,7 +212,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-do
 
 - 9a) WCA掌管魔術方塊比賽，這些魔術方塊是透過轉動一部份的零件來操控，通常稱之為「魔術方塊」。
 - 9b) WCA官方的項目為：
-    - 9b1) 3x3x3方塊、2x2x2方塊、4x4x4方塊、5x5x5方塊、3x3x3單手解、3x3x3腳解、魔錶Clock、12面體Megaminx、金字塔Pyraminx、斜轉方塊Skewb和Square-1。
+    - 9b1) 3x3x3方塊、2x2x2方塊、4x4x4方塊、5x5x5方塊、3x3x3單手解、魔錶Clock、12面體Megaminx、金字塔Pyraminx、斜轉方塊Skewb和Square-1。
         - 9b1a) 這些比賽項目的比賽型式為：「5次去頭尾平均(Average of 5)」。
         - 9b1b) 門檻制的比賽當中，第一階段為「2次取最佳(Best of 2)」，第二階段為「5次去頭尾平均(Average of 5)」。
     - 9b2) 6x6x6方塊和7x7x7方塊。
