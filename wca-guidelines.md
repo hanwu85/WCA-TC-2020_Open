@@ -215,6 +215,7 @@
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附則 H：多顆盲解
 
+- H1+) [附加] 如果在還原過程中（翻譯備註：記憶階段），發現有轉亂重複的方塊。該方塊可以使用不同的轉亂內容重新轉亂，由WCA代表決定。
 - H1b1+) [提醒] 依據3x3x3盲解的例外，多顆盲解在時間結束時，並不會被判DNF。(參見[規則 A1a4](regulations:regulation:A1a4) 和 [規則 A1a5](regulations:regulation:A1a5))
 - H1b1++) [附加] 裁判可以讓參賽者在時間結束後，繼續非正式的還原，但前提是必須要被先停下，並按照競賽規則判決。
 - H1d+) [舉例] 如果某參賽者還原10顆方塊，時間停止時是59:57且有兩個兩秒處罰，成績的時間為59:57 + 2*2 = 60:01。(參見[規則 A1a5](regulations:regulation:A1a5))
