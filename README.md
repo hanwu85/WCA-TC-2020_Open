@@ -51,7 +51,7 @@ Ver. 2020-01-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-t
 |Blindfolded Solving|盲解|-|
 |Blindfold|眼罩|-|
 |Fewest Moves Solving |最少步數解|-|
-|Combined Round|門檻制|-|
+|Cutoff Round|門檻制|-|
 |ADDITION|附加|對應競賽規則的附加資訊。|
 |CLARIFICATION|釐清|避免造成競賽規則解讀困擾的資訊。|
 |EXPLANATION|解釋|用來說明競賽規則意義的資訊。|
